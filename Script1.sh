@@ -5,4 +5,4 @@ echo "I am learning Git/Github"
 echo "I have added new code"
 echo "I am Bhavana Choudhari"
 echo "I am Bhavana Choudhari changes in B1"
-echo "I am Bhavana Choudhari changes in B2"
+
