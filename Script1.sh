@@ -4,5 +4,5 @@ echo "We are from batch-27"
 echo "I am learning Git/Github"
 echo "I have added new code"
 echo "I am Bhavana Choudhari"
-echo "I am Bhavana Choudhari changes in inside b1"
+echo "for clone example"
 
